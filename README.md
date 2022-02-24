@@ -108,6 +108,7 @@ mall
 ##### 系统架构图
 
 ![系统架构图](http://img.macrozheng.com/mall/project/mall_micro_service_arch.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcxxxzy%2Fmall.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcxxxzy%2Fmall?ref=badge_shield)
 
 ##### 业务架构图
 
@@ -219,3 +220,7 @@ asd
 asd
 asd
 asd
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcxxxzy%2Fmall.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcxxxzy%2Fmall?ref=badge_large)
